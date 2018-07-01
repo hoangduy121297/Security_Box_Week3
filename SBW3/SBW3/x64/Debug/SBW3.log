@@ -1,0 +1,684 @@
+﻿  stdafx.cpp
+  Nguoidung.cpp
+  SBW3.cpp
+  Generating Code...
+  sqlite3.c
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(916): warning C4005: 'OS_VXWORKS': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(908): note: see previous definition of 'OS_VXWORKS'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(973): warning C4005: 'GCC_VERSION': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(971): note: see previous definition of 'GCC_VERSION'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(978): warning C4005: 'MSVC_VERSION': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(976): note: see previous definition of 'MSVC_VERSION'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(12640): warning C4005: 'SQLITE_DEFAULT_PAGE_SIZE': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(12636): note: see previous definition of 'SQLITE_DEFAULT_PAGE_SIZE'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(12655): warning C4005: 'SQLITE_MAX_DEFAULT_PAGE_SIZE': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(12651): note: see previous definition of 'SQLITE_MAX_DEFAULT_PAGE_SIZE'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(12731): warning C4005: 'SQLITE_INT_TO_PTR': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(12728): note: see previous definition of 'SQLITE_INT_TO_PTR'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(12732): warning C4005: 'SQLITE_PTR_TO_INT': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(12729): note: see previous definition of 'SQLITE_PTR_TO_INT'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(12734): warning C4005: 'SQLITE_INT_TO_PTR': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(12731): note: see previous definition of 'SQLITE_INT_TO_PTR'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(12735): warning C4005: 'SQLITE_PTR_TO_INT': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(12732): note: see previous definition of 'SQLITE_PTR_TO_INT'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(12737): warning C4005: 'SQLITE_INT_TO_PTR': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(12734): note: see previous definition of 'SQLITE_INT_TO_PTR'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(12738): warning C4005: 'SQLITE_PTR_TO_INT': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(12735): note: see previous definition of 'SQLITE_PTR_TO_INT'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(12748): warning C4005: 'SQLITE_NOINLINE': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(12746): note: see previous definition of 'SQLITE_NOINLINE'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(12750): warning C4005: 'SQLITE_NOINLINE': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(12748): note: see previous definition of 'SQLITE_NOINLINE'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(12792): warning C4005: 'SQLITE_THREADSAFE': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(12790): note: see previous definition of 'SQLITE_THREADSAFE'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(12907): warning C4005: 'testcase': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(12905): note: see previous definition of 'testcase'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(12918): warning C4005: 'TESTONLY': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(12916): note: see previous definition of 'TESTONLY'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(12932): warning C4005: 'VVA_ONLY': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(12930): note: see previous definition of 'VVA_ONLY'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(12954): warning C4005: 'ALWAYS': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(12951): note: see previous definition of 'ALWAYS'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(12955): warning C4005: 'NEVER': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(12952): note: see previous definition of 'NEVER'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(12957): warning C4005: 'ALWAYS': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(12954): note: see previous definition of 'ALWAYS'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(12958): warning C4005: 'NEVER': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(12955): note: see previous definition of 'NEVER'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(12972): warning C4005: 'OK_IF_ALWAYS_TRUE': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(12969): note: see previous definition of 'OK_IF_ALWAYS_TRUE'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(12973): warning C4005: 'OK_IF_ALWAYS_FALSE': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(12970): note: see previous definition of 'OK_IF_ALWAYS_FALSE'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(12986): warning C4005: 'ONLY_IF_REALLOC_STRESS': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(12984): note: see previous definition of 'ONLY_IF_REALLOC_STRESS'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(12988): warning C4005: 'ONLY_IF_REALLOC_STRESS': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(12986): note: see previous definition of 'ONLY_IF_REALLOC_STRESS'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(13000): warning C4005: 'OSTRACE': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(12997): note: see previous definition of 'OSTRACE'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(13340): warning C4005: 'double': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(1313): note: see previous definition of 'double'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(13352): warning C4005: 'SQLITE_BIG_DBL': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(13344): note: see previous definition of 'SQLITE_BIG_DBL'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(13363): warning C4005: 'OMIT_TEMPDB': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(13361): note: see previous definition of 'OMIT_TEMPDB'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(13403): warning C4005: 'SQLITE_MAX_WORKER_THREADS': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(13400): note: see previous definition of 'SQLITE_MAX_WORKER_THREADS'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(13410): warning C4005: 'SQLITE_MAX_WORKER_THREADS': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(13403): note: see previous definition of 'SQLITE_MAX_WORKER_THREADS'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(13486): warning C4005: 'UINT32_TYPE': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(13484): note: see previous definition of 'UINT32_TYPE'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(13493): warning C4005: 'UINT16_TYPE': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(13491): note: see previous definition of 'UINT16_TYPE'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(13500): warning C4005: 'INT16_TYPE': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(13498): note: see previous definition of 'INT16_TYPE'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(13507): warning C4005: 'UINT8_TYPE': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(13505): note: see previous definition of 'UINT8_TYPE'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(13514): warning C4005: 'INT8_TYPE': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(13512): note: see previous definition of 'INT8_TYPE'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(13518): warning C4005: 'LONGDOUBLE_TYPE': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(13342): note: see previous definition of 'LONGDOUBLE_TYPE'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(13581): warning C4005: 'SQLITE_PTRSIZE': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(13578): note: see previous definition of 'SQLITE_PTRSIZE'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(13583): warning C4005: 'SQLITE_PTRSIZE': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(13581): note: see previous definition of 'SQLITE_PTRSIZE'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(13624): warning C4005: 'SQLITE_BYTEORDER': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(13622): note: see previous definition of 'SQLITE_BYTEORDER'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(13626): warning C4005: 'SQLITE_BYTEORDER': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(13624): note: see previous definition of 'SQLITE_BYTEORDER'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(13634): warning C4005: 'SQLITE_BIGENDIAN': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(13630): note: see previous definition of 'SQLITE_BIGENDIAN'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(13635): warning C4005: 'SQLITE_LITTLEENDIAN': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(13631): note: see previous definition of 'SQLITE_LITTLEENDIAN'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(13636): warning C4005: 'SQLITE_UTF16NATIVE': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(13632): note: see previous definition of 'SQLITE_UTF16NATIVE'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(13643): warning C4005: 'SQLITE_BIGENDIAN': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(13634): note: see previous definition of 'SQLITE_BIGENDIAN'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(13644): warning C4005: 'SQLITE_LITTLEENDIAN': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(13635): note: see previous definition of 'SQLITE_LITTLEENDIAN'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(13645): warning C4005: 'SQLITE_UTF16NATIVE': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(13636): note: see previous definition of 'SQLITE_UTF16NATIVE'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(13679): warning C4005: 'EIGHT_BYTE_ALIGNMENT': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(13677): note: see previous definition of 'EIGHT_BYTE_ALIGNMENT'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(13703): warning C4005: 'SQLITE_MAX_MMAP_SIZE': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(13687): note: see previous definition of 'SQLITE_MAX_MMAP_SIZE'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(13705): warning C4005: 'SQLITE_MAX_MMAP_SIZE': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(13703): note: see previous definition of 'SQLITE_MAX_MMAP_SIZE'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(13719): warning C4005: 'SQLITE_DEFAULT_MMAP_SIZE': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(13715): note: see previous definition of 'SQLITE_DEFAULT_MMAP_SIZE'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(13743): warning C4005: 'SELECTTRACE_ENABLED': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(13741): note: see previous definition of 'SELECTTRACE_ENABLED'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(13823): warning C4005: 'SQLITE_WSD': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(13817): note: see previous definition of 'SQLITE_WSD'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(13824): warning C4005: 'GLOBAL': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(13818): note: see previous definition of 'GLOBAL'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(13825): warning C4005: 'sqlite3GlobalConfig': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(13819): note: see previous definition of 'sqlite3GlobalConfig'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(14458): warning C4005: 'COLNAME_N': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(14455): note: see previous definition of 'COLNAME_N'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(14460): warning C4005: 'COLNAME_N': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(14458): note: see previous definition of 'COLNAME_N'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(14741): warning C4005: 'ExplainQueryPlan': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(14737): note: see previous definition of 'ExplainQueryPlan'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(14742): warning C4005: 'ExplainQueryPlanPop': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(14738): note: see previous definition of 'ExplainQueryPlanPop'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(14743): warning C4005: 'ExplainQueryPlanParent': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(14739): note: see previous definition of 'ExplainQueryPlanParent'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(14821): warning C4005: 'VdbeModuleComment': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(14819): note: see previous definition of 'VdbeModuleComment'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(14824): warning C4005: 'VdbeComment': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(14815): note: see previous definition of 'VdbeComment'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(14825): warning C4005: 'VdbeNoopComment': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(14817): note: see previous definition of 'VdbeNoopComment'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(14859): warning C4005: 'VdbeCoverage': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(14853): note: see previous definition of 'VdbeCoverage'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(14860): warning C4005: 'VdbeCoverageIf': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(14854): note: see previous definition of 'VdbeCoverageIf'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(14861): warning C4005: 'VdbeCoverageAlwaysTaken': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(14855): note: see previous definition of 'VdbeCoverageAlwaysTaken'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(14862): warning C4005: 'VdbeCoverageNeverTaken': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(14856): note: see previous definition of 'VdbeCoverageNeverTaken'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(14863): warning C4005: 'VDBE_OFFSET_LINENO': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(14857): note: see previous definition of 'VDBE_OFFSET_LINENO'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(15388): warning C4005: 'SQLITE_OS_WIN': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(15378): note: see previous definition of 'SQLITE_OS_WIN'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(15391): warning C4005: 'SQLITE_OS_WIN': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(15388): note: see previous definition of 'SQLITE_OS_WIN'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(15392): warning C4005: 'SQLITE_OS_UNIX': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(15376): note: see previous definition of 'SQLITE_OS_UNIX'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(15395): warning C4005: 'SQLITE_OS_UNIX': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(15392): note: see previous definition of 'SQLITE_OS_UNIX'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(15528): warning C4005: 'PENDING_BYTE': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(15526): note: see previous definition of 'PENDING_BYTE'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(15665): warning C4005: 'MUTEX_LOGIC': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(15663): note: see previous definition of 'MUTEX_LOGIC'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(15696): warning C4005: 'SQLITE_DEFAULT_SYNCHRONOUS': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(15676): note: see previous definition of 'SQLITE_DEFAULT_SYNCHRONOUS'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(15869): warning C4005: 'SQLITE_TRACE_LEGACY': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(15867): note: see previous definition of 'SQLITE_TRACE_LEGACY'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(16498): warning C4005: 'IsVirtual': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(16496): note: see previous definition of 'IsVirtual'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(16512): warning C4005: 'IsOrdinaryHiddenColumn': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(16509): note: see previous definition of 'IsOrdinaryHiddenColumn'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(16514): warning C4005: 'IsHiddenColumn': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(16508): note: see previous definition of 'IsHiddenColumn'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(17007): warning C4005: 'ExprSetVVAProperty': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(17005): note: see previous definition of 'ExprSetVVAProperty'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(17518): warning C4005: 'DbMaskTest': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(17511): note: see previous definition of 'DbMaskTest'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(17519): warning C4005: 'DbMaskZero': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(17512): note: see previous definition of 'DbMaskZero'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(17520): warning C4005: 'DbMaskSet': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(17513): note: see previous definition of 'DbMaskSet'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(17521): warning C4005: 'DbMaskAllZero': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(17514): note: see previous definition of 'DbMaskAllZero'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(17522): warning C4005: 'DbMaskNonZero': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(17515): note: see previous definition of 'DbMaskNonZero'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(17661): warning C4005: 'IN_DECLARE_VTAB': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(17659): note: see previous definition of 'IN_DECLARE_VTAB'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(18025): warning C4005: 'SQLITE_NOMEM_BKPT': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(18021): note: see previous definition of 'SQLITE_NOMEM_BKPT'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(18026): warning C4005: 'SQLITE_IOERR_NOMEM_BKPT': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(18022): note: see previous definition of 'SQLITE_IOERR_NOMEM_BKPT'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(18027): warning C4005: 'SQLITE_CORRUPT_PGNO': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(18023): note: see previous definition of 'SQLITE_CORRUPT_PGNO'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(18071): warning C4005: 'sqlite3Toupper': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(18062): note: see previous definition of 'sqlite3Toupper'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(18072): warning C4005: 'sqlite3Isspace': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(18063): note: see previous definition of 'sqlite3Isspace'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(18073): warning C4005: 'sqlite3Isalnum': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(18064): note: see previous definition of 'sqlite3Isalnum'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(18074): warning C4005: 'sqlite3Isalpha': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(18065): note: see previous definition of 'sqlite3Isalpha'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(18075): warning C4005: 'sqlite3Isdigit': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(18066): note: see previous definition of 'sqlite3Isdigit'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(18076): warning C4005: 'sqlite3Isxdigit': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(18067): note: see previous definition of 'sqlite3Isxdigit'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(18077): warning C4005: 'sqlite3Tolower': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(18068): note: see previous definition of 'sqlite3Tolower'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(18078): warning C4005: 'sqlite3Isquote': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(18069): note: see previous definition of 'sqlite3Isquote'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(18130): warning C4005: 'sqlite3StackAllocRaw': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(18126): note: see previous definition of 'sqlite3StackAllocRaw'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(18131): warning C4005: 'sqlite3StackAllocZero': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(18127): note: see previous definition of 'sqlite3StackAllocZero'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(18132): warning C4005: 'sqlite3StackFree': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(18128): note: see previous definition of 'sqlite3StackFree'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(18515): warning C4005: 'sqlite3ParseToplevel': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(18505): note: see previous definition of 'sqlite3ParseToplevel'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(18516): warning C4005: 'sqlite3IsToplevel': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(18506): note: see previous definition of 'sqlite3IsToplevel'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(18797): warning C4005: 'sqlite3VtabInSync': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(18772): note: see previous definition of 'sqlite3VtabInSync'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(18960): warning C4005: 'IOTRACE': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(18956): note: see previous definition of 'IOTRACE'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(19181): warning C4005: 'SQLITE_USE_URI': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(19179): note: see previous definition of 'SQLITE_USE_URI'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(19395): warning C4005: 'VDBE_DISPLAY_P4': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(19393): note: see previous definition of 'VDBE_DISPLAY_P4'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(19619): warning C4005: 'MEM_Zero': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(19615): note: see previous definition of 'MEM_Zero'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(19921): warning C4005: 'ExpandBlob': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(19918): note: see previous definition of 'ExpandBlob'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(19971): warning C4005: 'wsdStatInit': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(19968): note: see previous definition of 'wsdStatInit'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(19972): warning C4005: 'wsdStat': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(19969): note: see previous definition of 'wsdStat'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(21618): warning C4005: 'DO_OS_MALLOC_TEST': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(21616): note: see previous definition of 'DO_OS_MALLOC_TEST'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(22019): warning C4005: 'wsdHooksInit': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(22016): note: see previous definition of 'wsdHooksInit'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(22020): warning C4005: 'wsdHooks': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(22017): note: see previous definition of 'wsdHooks'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(22196): warning C4005: 'SQLITE_MALLOC': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(22184): note: see previous definition of 'SQLITE_MALLOC'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(22197): warning C4005: 'SQLITE_FREE': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(22185): note: see previous definition of 'SQLITE_FREE'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(22198): warning C4005: 'SQLITE_REALLOC': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(22186): note: see previous definition of 'SQLITE_REALLOC'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(22214): warning C4005: 'SQLITE_USE_MALLOC_H': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(22205): note: see previous definition of 'SQLITE_USE_MALLOC_H'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(22229): warning C4005: 'SQLITE_MALLOCSIZE': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(22188): note: see previous definition of 'SQLITE_MALLOCSIZE'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(22233): warning C4005: 'SQLITE_MALLOCSIZE': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(22229): note: see previous definition of 'SQLITE_MALLOCSIZE'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(24830): warning C4005: 'SQLITE_MUTEX_NREF': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(24828): note: see previous definition of 'SQLITE_MUTEX_NREF'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(24851): warning C4005: 'SQLITE3_MUTEX_INITIALIZER': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(24849): note: see previous definition of 'SQLITE3_MUTEX_INITIALIZER'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(24853): warning C4005: 'SQLITE3_MUTEX_INITIALIZER': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(24851): note: see previous definition of 'SQLITE3_MUTEX_INITIALIZER'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(25352): warning C4005: 'TIMER_START': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(25348): note: see previous definition of 'TIMER_START'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(25353): warning C4005: 'TIMER_END': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(25349): note: see previous definition of 'TIMER_END'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(25354): warning C4005: 'TIMER_ELAPSED': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(25350): note: see previous definition of 'TIMER_ELAPSED'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(25392): warning C4005: 'SimulateIOErrorBenign': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(25370): note: see previous definition of 'SimulateIOErrorBenign'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(25393): warning C4005: 'SimulateIOError': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(25374): note: see previous definition of 'SimulateIOError'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(25394): warning C4005: 'SimulateDiskfullError': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(25390): note: see previous definition of 'SimulateDiskfullError'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(25404): warning C4005: 'OpenCounter': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(25402): note: see previous definition of 'OpenCounter'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(25472): warning C4005: 'SQLITE_OS_WINCE': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(25470): note: see previous definition of 'SQLITE_OS_WINCE'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(25490): warning C4005: 'SQLITE_WIN32_VOLATILE': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(25488): note: see previous definition of 'SQLITE_WIN32_VOLATILE'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(25501): warning C4005: 'SQLITE_OS_WIN_THREADS': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(25499): note: see previous definition of 'SQLITE_OS_WIN_THREADS'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(25538): warning C4005: 'SQLITE3_MUTEX_INITIALIZER': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(24853): note: see previous definition of 'SQLITE3_MUTEX_INITIALIZER'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(25540): warning C4005: 'SQLITE3_MUTEX_INITIALIZER': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(25538): note: see previous definition of 'SQLITE3_MUTEX_INITIALIZER'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(28470): warning C4005: 'wsdPrng': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(28468): note: see previous definition of 'wsdPrng'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(31280): warning C4005: 'OpHelp': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(31278): note: see previous definition of 'OpHelp'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(31530): warning C4005: 'SQLITE_ENABLE_LOCKING_STYLE': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(912): note: see previous definition of 'SQLITE_ENABLE_LOCKING_STYLE'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(31532): warning C4005: 'SQLITE_ENABLE_LOCKING_STYLE': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(31530): note: see previous definition of 'SQLITE_ENABLE_LOCKING_STYLE'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(31737): warning C4005: 'UNIXFILE_DIRSYNC': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(31735): note: see previous definition of 'UNIXFILE_DIRSYNC'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(31883): warning C4005: 'TIMER_START': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(25352): note: see previous definition of 'TIMER_START'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(31884): warning C4005: 'TIMER_END': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(25353): note: see previous definition of 'TIMER_END'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(31885): warning C4005: 'TIMER_ELAPSED': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(25354): note: see previous definition of 'TIMER_ELAPSED'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(31887): warning C4005: 'TIMER_START': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(31883): note: see previous definition of 'TIMER_START'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(31888): warning C4005: 'TIMER_END': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(31884): note: see previous definition of 'TIMER_END'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(31889): warning C4005: 'TIMER_ELAPSED': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(31885): note: see previous definition of 'TIMER_ELAPSED'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(31905): warning C4005: 'SimulateIOErrorBenign': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(25392): note: see previous definition of 'SimulateIOErrorBenign'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(31909): warning C4005: 'SimulateIOError': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(25393): note: see previous definition of 'SimulateIOError'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(31925): warning C4005: 'SimulateDiskfullError': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(25394): note: see previous definition of 'SimulateDiskfullError'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(31927): warning C4005: 'SimulateIOErrorBenign': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(31905): note: see previous definition of 'SimulateIOErrorBenign'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(31928): warning C4005: 'SimulateIOError': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(31909): note: see previous definition of 'SimulateIOError'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(31929): warning C4005: 'SimulateDiskfullError': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(31925): note: see previous definition of 'SimulateDiskfullError'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(31937): warning C4005: 'OpenCounter': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(25404): note: see previous definition of 'OpenCounter'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(31939): warning C4005: 'OpenCounter': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(31937): note: see previous definition of 'OpenCounter'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(31971): warning C4005: 'threadid': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(31969): note: see previous definition of 'threadid'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(31981): warning C4005: 'HAVE_MREMAP': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(31979): note: see previous definition of 'HAVE_MREMAP'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(32060): warning C4005: 'osFstat': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(32057): note: see previous definition of 'osFstat'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(32455): warning C4005: 'osFcntl': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(32067): note: see previous definition of 'osFcntl'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(35123): warning C4005: 'HAVE_FULLFSYNC': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(35121): note: see previous definition of 'HAVE_FULLFSYNC'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(39608): warning C4005: 'TIMER_START': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(31887): note: see previous definition of 'TIMER_START'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(39609): warning C4005: 'TIMER_END': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(31888): note: see previous definition of 'TIMER_END'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(39610): warning C4005: 'TIMER_ELAPSED': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(31889): note: see previous definition of 'TIMER_ELAPSED'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(39612): warning C4005: 'TIMER_START': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(39608): note: see previous definition of 'TIMER_START'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(39613): warning C4005: 'TIMER_END': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(39609): note: see previous definition of 'TIMER_END'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(39614): warning C4005: 'TIMER_ELAPSED': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(39610): note: see previous definition of 'TIMER_ELAPSED'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(39630): warning C4005: 'SimulateIOErrorBenign': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(31927): note: see previous definition of 'SimulateIOErrorBenign'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(39634): warning C4005: 'SimulateIOError': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(31928): note: see previous definition of 'SimulateIOError'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(39650): warning C4005: 'SimulateDiskfullError': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(31929): note: see previous definition of 'SimulateDiskfullError'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(39652): warning C4005: 'SimulateIOErrorBenign': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(39630): note: see previous definition of 'SimulateIOErrorBenign'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(39653): warning C4005: 'SimulateIOError': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(39634): note: see previous definition of 'SimulateIOError'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(39654): warning C4005: 'SimulateDiskfullError': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(39650): note: see previous definition of 'SimulateDiskfullError'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(39662): warning C4005: 'OpenCounter': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(31939): note: see previous definition of 'OpenCounter'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(39664): warning C4005: 'OpenCounter': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(39662): note: see previous definition of 'OpenCounter'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(39740): warning C4005: 'SQLITE_WIN32_GETVERSIONEX': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(39738): note: see previous definition of 'SQLITE_WIN32_GETVERSIONEX'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(39753): warning C4005: 'SQLITE_WIN32_CREATEFILEMAPPINGA': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(39751): note: see previous definition of 'SQLITE_WIN32_CREATEFILEMAPPINGA'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(40026): warning C4005: 'SQLITE_WIN32_CACHE_SIZE': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(40024): note: see previous definition of 'SQLITE_WIN32_CACHE_SIZE'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(40037): warning C4005: 'SQLITE_WIN32_CACHE_SIZE': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(40026): note: see previous definition of 'SQLITE_WIN32_CACHE_SIZE'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(40101): warning C4005: 'winMemAssertMagic': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(40099): note: see previous definition of 'winMemAssertMagic'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(40167): warning C4005: 'osAreFileApisANSI': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(40146): note: see previous definition of 'osAreFileApisANSI'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(40779): warning C4005: 'osInterlockedCompareExchange': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(40774): note: see previous definition of 'osInterlockedCompareExchange'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(41072): warning C4005: 'osIsNT': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(41068): note: see previous definition of 'osIsNT'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(41074): warning C4005: 'osIsNT': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(41072): note: see previous definition of 'osIsNT'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(46857): warning C4005: 'pcacheTrace': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(46831): note: see previous definition of 'pcacheTrace'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(47870): warning C4005: 'pcache1EnterMutex': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(47866): note: see previous definition of 'pcache1EnterMutex'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(47871): warning C4005: 'pcache1LeaveMutex': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(47867): note: see previous definition of 'pcache1LeaveMutex'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(47872): warning C4005: 'PCACHE1_MIGHT_USE_GROUP_MUTEX': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(47868): note: see previous definition of 'PCACHE1_MIGHT_USE_GROUP_MUTEX'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(49671): warning C4005: 'PAGERTRACE': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(49669): note: see previous definition of 'PAGERTRACE'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(49970): warning C4005: 'CODEC1': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(49965): note: see previous definition of 'CODEC1'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(49971): warning C4005: 'CODEC2': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(49968): note: see previous definition of 'CODEC2'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(50294): warning C4005: 'PAGER_INCR': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(50292): note: see previous definition of 'PAGER_INCR'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(50347): warning C4005: 'MEMDB': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(50345): note: see previous definition of 'MEMDB'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(50357): warning C4005: 'USEFETCH': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(50355): note: see previous definition of 'USEFETCH'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(50395): warning C4005: 'pagerUseWal': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(50393): note: see previous definition of 'pagerUseWal'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(50831): warning C4005: 'CHECK_PAGE': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(50820): note: see previous definition of 'CHECK_PAGE'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(55777): warning C4005: 'DIRECT_MODE': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(55773): note: see previous definition of 'DIRECT_MODE'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(57472): warning C4005: 'WALTRACE': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(57470): note: see previous definition of 'WALTRACE'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(61685): warning C4005: 'ISAUTOVACUUM': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(61683): note: see previous definition of 'ISAUTOVACUUM'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(61730): warning C4005: 'get2byteAligned': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(61728): note: see previous definition of 'get2byteAligned'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(61732): warning C4005: 'get2byteAligned': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(61730): note: see previous definition of 'get2byteAligned'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(61734): warning C4005: 'get2byteAligned': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(61732): note: see previous definition of 'get2byteAligned'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(62063): warning C4005: 'TRACE': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(62061): note: see previous definition of 'TRACE'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(62093): warning C4005: 'IfNotOmitAV': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(62091): note: see previous definition of 'IfNotOmitAV'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(62171): warning C4005: 'SQLITE_CORRUPT_PAGE': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(62169): note: see previous definition of 'SQLITE_CORRUPT_PAGE'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(78277): warning C4005: 'swapMixedEndianFloat': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(78275): note: see previous definition of 'swapMixedEndianFloat'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(79759): warning C4005: 'checkProfileCallback': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(79757): note: see previous definition of 'checkProfileCallback'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(81868): warning C4005: 'memAboutToChange': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(81866): note: see previous definition of 'memAboutToChange'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(81928): warning C4005: 'HAS_UPDATE_HOOK': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(81926): note: see previous definition of 'HAS_UPDATE_HOOK'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(81949): warning C4005: 'UPDATE_MAX_BLOBSIZE': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(81947): note: see previous definition of 'UPDATE_MAX_BLOBSIZE'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(81971): warning C4005: 'VdbeBranchTaken': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(81969): note: see previous definition of 'VdbeBranchTaken'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(82333): warning C4005: 'REGISTER_TRACE': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(82331): note: see previous definition of 'REGISTER_TRACE'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(86246): warning C4005: 'MAX_ROWID': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(86240): note: see previous definition of 'MAX_ROWID'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(101230): warning C4005: 'IsStat4': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(101227): note: see previous definition of 'IsStat4'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(101231): warning C4005: 'IsStat3': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(101228): note: see previous definition of 'IsStat3'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(101234): warning C4005: 'IsStat3': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(101231): note: see previous definition of 'IsStat3'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(101342): warning C4005: 'SQLITE_STAT4_SAMPLES': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(101236): note: see previous definition of 'SQLITE_STAT4_SAMPLES'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(103110): warning C4005: 'REOPEN_AS_MEMDB': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(103108): note: see previous definition of 'REOPEN_AS_MEMDB'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(110461): warning C4005: 'Utf8Read': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(110459): note: see previous definition of 'Utf8Read'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116303): warning C4005: 'sqlite3_mutex_alloc': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(15653): note: see previous definition of 'sqlite3_mutex_alloc'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116304): warning C4005: 'sqlite3_mutex_enter': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(15655): note: see previous definition of 'sqlite3_mutex_enter'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116305): warning C4005: 'sqlite3_mutex_free': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(15654): note: see previous definition of 'sqlite3_mutex_free'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116306): warning C4005: 'sqlite3_mutex_leave': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(15657): note: see previous definition of 'sqlite3_mutex_leave'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116307): warning C4005: 'sqlite3_mutex_try': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(15656): note: see previous definition of 'sqlite3_mutex_try'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116435): warning C4005: 'SQLITE_EXTENSION_INIT1': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116428): note: see previous definition of 'SQLITE_EXTENSION_INIT1'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116436): warning C4005: 'SQLITE_EXTENSION_INIT2': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116429): note: see previous definition of 'SQLITE_EXTENSION_INIT2'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116437): warning C4005: 'SQLITE_EXTENSION_INIT3': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116431): note: see previous definition of 'SQLITE_EXTENSION_INIT3'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116453): warning C4005: 'sqlite3_column_database_name': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116187): note: see previous definition of 'sqlite3_column_database_name'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116454): warning C4005: 'sqlite3_column_database_name16': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116188): note: see previous definition of 'sqlite3_column_database_name16'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116455): warning C4005: 'sqlite3_column_table_name': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116198): note: see previous definition of 'sqlite3_column_table_name'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116456): warning C4005: 'sqlite3_column_table_name16': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116199): note: see previous definition of 'sqlite3_column_table_name16'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116457): warning C4005: 'sqlite3_column_origin_name': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116196): note: see previous definition of 'sqlite3_column_origin_name'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116458): warning C4005: 'sqlite3_column_origin_name16': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116197): note: see previous definition of 'sqlite3_column_origin_name16'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116462): warning C4005: 'sqlite3_set_authorizer': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116262): note: see previous definition of 'sqlite3_set_authorizer'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116466): warning C4005: 'sqlite3_bind_text16': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116175): note: see previous definition of 'sqlite3_bind_text16'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116467): warning C4005: 'sqlite3_collation_needed16': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116182): note: see previous definition of 'sqlite3_collation_needed16'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116468): warning C4005: 'sqlite3_column_decltype16': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116190): note: see previous definition of 'sqlite3_column_decltype16'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116469): warning C4005: 'sqlite3_column_name16': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116195): note: see previous definition of 'sqlite3_column_name16'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116470): warning C4005: 'sqlite3_column_text16': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116201): note: see previous definition of 'sqlite3_column_text16'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116471): warning C4005: 'sqlite3_complete16': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116206): note: see previous definition of 'sqlite3_complete16'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116472): warning C4005: 'sqlite3_create_collation16': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116208): note: see previous definition of 'sqlite3_create_collation16'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116473): warning C4005: 'sqlite3_create_function16': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116210): note: see previous definition of 'sqlite3_create_function16'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116474): warning C4005: 'sqlite3_errmsg16': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116219): note: see previous definition of 'sqlite3_errmsg16'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116475): warning C4005: 'sqlite3_open16': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116240): note: see previous definition of 'sqlite3_open16'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116476): warning C4005: 'sqlite3_prepare16': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116242): note: see previous definition of 'sqlite3_prepare16'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116477): warning C4005: 'sqlite3_prepare16_v2': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116244): note: see previous definition of 'sqlite3_prepare16_v2'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116478): warning C4005: 'sqlite3_prepare16_v3': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116400): note: see previous definition of 'sqlite3_prepare16_v3'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116479): warning C4005: 'sqlite3_result_error16': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116252): note: see previous definition of 'sqlite3_result_error16'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116480): warning C4005: 'sqlite3_result_text16': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116257): note: see previous definition of 'sqlite3_result_text16'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116481): warning C4005: 'sqlite3_result_text16be': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116258): note: see previous definition of 'sqlite3_result_text16be'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116482): warning C4005: 'sqlite3_result_text16le': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116259): note: see previous definition of 'sqlite3_result_text16le'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116483): warning C4005: 'sqlite3_value_text16': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116283): note: see previous definition of 'sqlite3_value_text16'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116484): warning C4005: 'sqlite3_value_text16be': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116284): note: see previous definition of 'sqlite3_value_text16be'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116485): warning C4005: 'sqlite3_value_text16le': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116285): note: see previous definition of 'sqlite3_value_text16le'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116492): warning C4005: 'sqlite3_complete': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116205): note: see previous definition of 'sqlite3_complete'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116498): warning C4005: 'sqlite3_column_decltype': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116189): note: see previous definition of 'sqlite3_column_decltype'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116502): warning C4005: 'sqlite3_progress_handler': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116246): note: see previous definition of 'sqlite3_progress_handler'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116506): warning C4005: 'sqlite3_create_module': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116211): note: see previous definition of 'sqlite3_create_module'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116507): warning C4005: 'sqlite3_create_module_v2': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116212): note: see previous definition of 'sqlite3_create_module_v2'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116508): warning C4005: 'sqlite3_declare_vtab': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116215): note: see previous definition of 'sqlite3_declare_vtab'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116509): warning C4005: 'sqlite3_vtab_config': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116350): note: see previous definition of 'sqlite3_vtab_config'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116510): warning C4005: 'sqlite3_vtab_on_conflict': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116351): note: see previous definition of 'sqlite3_vtab_on_conflict'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116514): warning C4005: 'sqlite3_enable_shared_cache': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116216): note: see previous definition of 'sqlite3_enable_shared_cache'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116518): warning C4005: 'sqlite3_profile': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116245): note: see previous definition of 'sqlite3_profile'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116519): warning C4005: 'sqlite3_trace': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116269): note: see previous definition of 'sqlite3_trace'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116523): warning C4005: 'sqlite3_free_table': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116226): note: see previous definition of 'sqlite3_free_table'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116524): warning C4005: 'sqlite3_get_table': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116229): note: see previous definition of 'sqlite3_get_table'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116528): warning C4005: 'sqlite3_bind_zeroblob': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116293): note: see previous definition of 'sqlite3_bind_zeroblob'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116529): warning C4005: 'sqlite3_blob_bytes': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116294): note: see previous definition of 'sqlite3_blob_bytes'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116530): warning C4005: 'sqlite3_blob_close': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116295): note: see previous definition of 'sqlite3_blob_close'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116531): warning C4005: 'sqlite3_blob_open': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116296): note: see previous definition of 'sqlite3_blob_open'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116532): warning C4005: 'sqlite3_blob_read': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116297): note: see previous definition of 'sqlite3_blob_read'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116533): warning C4005: 'sqlite3_blob_write': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116298): note: see previous definition of 'sqlite3_blob_write'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116534): warning C4005: 'sqlite3_blob_reopen': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116349): note: see previous definition of 'sqlite3_blob_reopen'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116538): warning C4005: 'sqlite3_trace_v2': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(116394): note: see previous definition of 'sqlite3_trace_v2'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(117100): warning C4005: 'wsdAutoextInit': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(117097): note: see previous definition of 'wsdAutoextInit'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(117101): warning C4005: 'wsdAutoext': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(117098): note: see previous definition of 'wsdAutoext'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(117261): warning C4005: 'SQLITE_ENABLE_LOCKING_STYLE': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(31532): note: see previous definition of 'SQLITE_ENABLE_LOCKING_STYLE'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(117263): warning C4005: 'SQLITE_ENABLE_LOCKING_STYLE': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(117261): note: see previous definition of 'SQLITE_ENABLE_LOCKING_STYLE'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(121323): warning C4005: 'SELECTTRACE': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(121321): note: see previous definition of 'SELECTTRACE'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(122712): warning C4005: 'explainSetInteger': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(122707): note: see previous definition of 'explainSetInteger'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(122930): warning C4005: 'columnType': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(122928): note: see previous definition of 'columnType'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(131881): warning C4005: 'WHERETRACE': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(131878): note: see previous definition of 'WHERETRACE'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(132133): warning C4005: 'TERM_VNULL': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(132131): note: see previous definition of 'TERM_VNULL'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(138495): warning C4005: 'ApplyCostMultiplier': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(138493): note: see previous definition of 'ApplyCostMultiplier'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(141669): warning C4005: 'yytestcase': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(141421): note: see previous definition of 'yytestcase'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(143056): warning C4005: 'YYMALLOCARGTYPE': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(141446): note: see previous definition of 'YYMALLOCARGTYPE'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(145577): warning C4005: 'charMap': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(145574): note: see previous definition of 'charMap'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(145962): warning C4005: 'IdChar': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(145944): note: see previous definition of 'IdChar'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(146425): warning C4005: 'IdChar': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(145962): note: see previous definition of 'IdChar'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(146429): warning C4005: 'IdChar': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(146425): note: see previous definition of 'IdChar'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(151707): warning C4005: 'SQLITE_ENABLE_FTS3': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(18044): note: see previous definition of 'SQLITE_ENABLE_FTS3'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(152096): warning C4005: 'ALWAYS': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(12957): note: see previous definition of 'ALWAYS'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(152097): warning C4005: 'NEVER': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(12958): note: see previous definition of 'NEVER'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(152099): warning C4005: 'ALWAYS': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(152096): note: see previous definition of 'ALWAYS'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(152100): warning C4005: 'NEVER': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(152097): note: see previous definition of 'NEVER'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(152104): warning C4005: 'ALWAYS': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(152099): note: see previous definition of 'ALWAYS'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(152105): warning C4005: 'NEVER': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(152100): note: see previous definition of 'NEVER'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(152135): warning C4005: 'TESTONLY': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(12918): note: see previous definition of 'TESTONLY'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(152137): warning C4005: 'TESTONLY': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(152135): note: see previous definition of 'TESTONLY'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(152146): warning C4005: 'FTS_CORRUPT_VTAB': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(152144): note: see previous definition of 'FTS_CORRUPT_VTAB'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(155447): warning C4005: 'LARGEST_INT64': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(13653): note: see previous definition of 'LARGEST_INT64'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(155448): warning C4005: 'SMALLEST_INT64': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(13654): note: see previous definition of 'SMALLEST_INT64'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(158873): warning C4005: 'sqlite3_fts3_enable_parentheses': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(158871): note: see previous definition of 'sqlite3_fts3_enable_parentheses'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(162425): warning C4005: 'FTS3_NODE_CHUNKSIZE': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(162422): note: see previous definition of 'FTS3_NODE_CHUNKSIZE'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(162426): warning C4005: 'FTS3_NODE_CHUNK_THRESHOLD': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(162423): note: see previous definition of 'FTS3_NODE_CHUNK_THRESHOLD'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(170706): warning C4005: 'RTREE_ZERO': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(170702): note: see previous definition of 'RTREE_ZERO'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(170803): warning C4005: 'DCOORD': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(170797): note: see previous definition of 'DCOORD'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(170890): warning C4005: 'MAX': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(13457): note: see previous definition of 'MAX'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(170893): warning C4005: 'MIN': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(13454): note: see previous definition of 'MIN'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(170903): warning C4005: 'GCC_VERSION': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(973): note: see previous definition of 'GCC_VERSION'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(170905): warning C4005: 'GCC_VERSION': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(170903): note: see previous definition of 'GCC_VERSION'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(170930): warning C4005: 'SQLITE_BYTEORDER': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(13626): note: see previous definition of 'SQLITE_BYTEORDER'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(170932): warning C4005: 'SQLITE_BYTEORDER': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(170930): note: see previous definition of 'SQLITE_BYTEORDER'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(170934): warning C4005: 'SQLITE_BYTEORDER': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(170932): note: see previous definition of 'SQLITE_BYTEORDER'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(170942): warning C4005: 'MSVC_VERSION': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(978): note: see previous definition of 'MSVC_VERSION'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(170944): warning C4005: 'MSVC_VERSION': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(170942): note: see previous definition of 'MSVC_VERSION'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(171606): warning C4005: 'RTREE_DECODE_COORD': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(171600): note: see previous definition of 'RTREE_DECODE_COORD'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(171614): warning C4005: 'RTREE_DECODE_COORD': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(171606): note: see previous definition of 'RTREE_DECODE_COORD'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(171620): warning C4005: 'RTREE_DECODE_COORD': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(171614): note: see previous definition of 'RTREE_DECODE_COORD'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(171627): warning C4005: 'RTREE_DECODE_COORD': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(171620): note: see previous definition of 'RTREE_DECODE_COORD'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(171978): warning C4005: 'RTREE_QUEUE_TRACE': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(171976): note: see previous definition of 'RTREE_QUEUE_TRACE'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(182380): warning C4005: 'SESSIONS_STRM_CHUNK_SIZE': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(182378): note: see previous definition of 'SESSIONS_STRM_CHUNK_SIZE'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(187794): warning C4005: 'safe_isdigit': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(187788): note: see previous definition of 'safe_isdigit'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(187795): warning C4005: 'safe_isalnum': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(187789): note: see previous definition of 'safe_isalnum'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(187796): warning C4005: 'safe_isxdigit': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(187790): note: see previous definition of 'safe_isxdigit'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(188412): warning C4005: 'JSON_NOINLINE': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(188410): note: see previous definition of 'JSON_NOINLINE'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(188414): warning C4005: 'JSON_NOINLINE': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(188412): note: see previous definition of 'JSON_NOINLINE'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(190791): warning C4005: 'ArraySize': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(13785): note: see previous definition of 'ArraySize'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(190795): warning C4005: 'ALWAYS': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(152104): note: see previous definition of 'ALWAYS'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(190796): warning C4005: 'NEVER': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(152105): note: see previous definition of 'NEVER'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(190798): warning C4005: 'MIN': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(170893): note: see previous definition of 'MIN'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(190799): warning C4005: 'MAX': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(170890): note: see previous definition of 'MAX'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(190804): warning C4005: 'LARGEST_INT64': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(155447): note: see previous definition of 'LARGEST_INT64'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(190805): warning C4005: 'SMALLEST_INT64': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(155448): note: see previous definition of 'SMALLEST_INT64'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(190832): warning C4005: 'FTS5_CORRUPT': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(190829): note: see previous definition of 'FTS5_CORRUPT'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(190844): warning C4005: 'assert_nc': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(190842): note: see previous definition of 'assert_nc'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(191732): warning C4005: 'fts5yytestcase': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(191608): note: see previous definition of 'fts5yytestcase'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(192047): warning C4005: 'fts5YYMALLOCARGTYPE': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(191620): note: see previous definition of 'fts5YYMALLOCARGTYPE'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(209064): warning C4005: 'WRITE_UTF8': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(28919): note: see previous definition of 'WRITE_UTF8'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(210723): warning C4005: 'FTS5_NOINLINE': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(210721): note: see previous definition of 'FTS5_NOINLINE'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(211860): warning C4005: 'SQLITE_SOURCE_ID': macro redefinition
+  c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(1155): note: see previous definition of 'SQLITE_SOURCE_ID'
+c:\users\mypc\source\repos\sbw3\sbw3\sqlite3.c(211865): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?

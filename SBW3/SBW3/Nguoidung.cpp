@@ -225,8 +225,7 @@ void Nguoidung::Menu() {
 
 			}
 			
-			
-			char sql2[] = "SELECT nguoiDung1,nguoiDung2 FROM Trangthai WHERE nguoiDung1=";
+			char sql2[] = "SELECT * FROM Trangthai WHERE nguoiDung1=";
 			char nguoidung2[] = " nguoiDung2=";
 			char phay[] = ",";
 			char ngoac[] = ")";
@@ -238,11 +237,11 @@ void Nguoidung::Menu() {
 			strcat(sql2, And);
 			strcat(sql2, nguoidung2);
 			strcat(sql2, p);
-			strcat(sql2, taikhoan);
+			strcat(sql2, taikhoan );
 			strcat(sql2, p);
 			strcat(sql2, cp);
-			
 			sqlite3_get_table(db, sql2, &results, &rows, &columns, &error);
+		
 			if (rows == 1) {
 				check1 = 1;
 				
@@ -675,13 +674,16 @@ void Nguoidung::Menu() {
 				break;
 
 			}
+			connectDB();
 			char nguoidung1[] = " nguoiDung1 ";
 			char nguoidung2[] = " nguoiDung2 ";
 			char And[] = " AND ";
 			char trangthai[] = " trangThai='ban be'; ";
+			char p[] = "'";
 			char s[] = " ";
 			char sql[] = "SELECT nguoiDung2 FROM Trangthai WHERE nguoiDung1='";
 			strcat(sql, getTaikhoan());
+			strcat(sql, p);
 			strcat(sql, And);
 			strcat(sql, trangthai);
 			char **results = NULL;
@@ -695,7 +697,9 @@ void Nguoidung::Menu() {
 			else
 			{
 				// Display Table
-				for (int rowCtr = 0; rowCtr <= rows; ++rowCtr)
+				cout << "----------------------------" << endl;
+				cout << "Danh sach ban be:" << endl;
+				for (int rowCtr = 1; rowCtr <= rows; ++rowCtr)
 				{
 					for (int colCtr = 0; colCtr < columns; ++colCtr)
 					{
@@ -718,6 +722,7 @@ void Nguoidung::Menu() {
 			sqlite3_free_table(results);
 			char sql2[] = "SELECT nguoiDung1 FROM Trangthai WHERE nguoiDung2='";
 			strcat(sql2, getTaikhoan());
+			strcat(sql2, p);
 			strcat(sql2, And);
 			strcat(sql2, trangthai);
 			
@@ -730,7 +735,7 @@ void Nguoidung::Menu() {
 			else
 			{
 				// Display Table
-				for (int rowCtr = 0; rowCtr <= rows; ++rowCtr)
+				for (int rowCtr = 1; rowCtr <= rows; ++rowCtr)
 				{
 					for (int colCtr = 0; colCtr < columns; ++colCtr)
 					{
@@ -746,10 +751,12 @@ void Nguoidung::Menu() {
 
 					// End Line
 					cout << endl;
-
+					
 
 				}
 			}
+			cout << "-----------------------" << endl;
+			dissConnectDB();
 			break;
 		}
 		case 9: {

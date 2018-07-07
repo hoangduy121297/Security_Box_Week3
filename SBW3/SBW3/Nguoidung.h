@@ -21,6 +21,8 @@ private:
 	int rc;
 
 	char *error;
+	char **results = NULL;
+	int rows, columns;
 
 public:
 
